@@ -1,0 +1,3 @@
+[submodule "tinymt"]
+	path = tinymt
+	url = https://github.com/jj1bdx/TinyMT.git
